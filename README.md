@@ -1,5 +1,9 @@
-## My data visualizations <br>
-https://public.tableau.com/app/profile/marian.eerens#
+### 👩🏼‍🎨  My Data Visualization Portfolio
 
-## My #datawalking data visualizations <br>
-Tools used to collect the data: https://datawalking.com/
+- [Tableau Public](https://public.tableau.com/app/profile/marian.eerens)
+- [Datawalking](https://github.com/meerens/dataviz-portfolio/tree/main/datawalking)
+- [Makeover Monday](https://github.com/meerens/dataviz-portfolio/tree/main/makeovermonday)
+
+
+
+
